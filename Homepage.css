@@ -1,3 +1,6 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
 .interface{
     background: #919191;
     width: 1880px;
@@ -13,6 +16,7 @@
     line-height: normal;
     margin-left: 55px;
     margin-right: 67px;
+    font-size: 60px;
 }
 .interface h2{
     width: 677px;
