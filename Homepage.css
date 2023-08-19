@@ -1,0 +1,82 @@
+.interface{
+    background: #919191;
+    width: 1880px;
+    height: 980px;
+    flex-shrink: 0;
+}
+.interface h1{
+    color: #070707;
+    font-family: Inter;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 55px;
+    margin-right: 67px;
+}
+.interface h2{
+    width: 677px;
+    height: 127px;
+    flex-shrink: 0;
+    color: #000000;
+    font-family: Inter;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 35px;
+    margin-right: 42px;
+}
+.manu{
+    width: 67px;
+    height: 67px;
+    flex-shrink: 0;
+    margin-left: 151px;
+    margin-top: 92px;
+    margin-right: 1702;
+    margin-bottom: 921px;
+}
+.jahinphoto{
+    width: 629.888px;
+    height: 955px;
+    flex-shrink: 0;
+    margin-left: 271px;
+    margin-top: 125px;
+    margin-right: 1019px;
+}
+.facebook{
+    width: 58px;
+    height: 58px;
+    flex-shrink: 0;
+    margin-left: 107px;
+    margin-top: 373px;
+    margin-right: 1755px;
+    margin-bottom: 649px;
+}
+.linkedin{
+    width: 58px;
+    height: 58px;
+    flex-shrink: 0;
+    margin-left: 1755px;
+    margin-top: 482px;
+    margin-right: 107px;
+    margin-bottom: 540px;
+}
+.github{
+    width: 58px;
+    height: 58px;
+    flex-shrink: 0;
+    margin-left: 1755px;
+    margin-top: 591px;
+    margin-right: 107px;
+    margin-bottom: 431px;
+}
+.about{
+    width: 547.653px;
+    height: 308px;
+    flex-shrink: 0;
+    margin-left: 987px;
+    margin-top: 564px;
+    margin-right: 391px;
+    margin-bottom: 208px;
+}
